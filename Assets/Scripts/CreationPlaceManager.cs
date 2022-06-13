@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class CreationPlaceManager : MonoBehaviour
 {
+    [SerializeField] private MergeMusicController mergeMusicController;
     [SerializeField] private MergeManager mergeManager;
     [SerializeField] private List<CreationPlace> creationPlaces;
     [SerializeField] private ObjectController firstLevelPrefab;
@@ -25,6 +26,7 @@ public class CreationPlaceManager : MonoBehaviour
             if (place.cashedTransform.childCount == 0)
             {
                 place.CreateObject(objectsPool.GetFreeElement());
+                mergeMusicController.PlaySound(0);
                 return;
             }
         }

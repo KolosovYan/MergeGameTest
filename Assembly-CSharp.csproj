@@ -64,6 +64,8 @@
     <Compile Include="Assets\Scripts\CreationPlace.cs" />
     <Compile Include="Assets\Scripts\CreationPlaceManager.cs" />
     <Compile Include="Assets\Scripts\ObjectPool.cs" />
+    <Compile Include="Assets\Scripts\MusicController.cs" />
+    <Compile Include="Assets\Scripts\MergeMusicController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
