@@ -1,0 +1,6264 @@
+fileFormatVersion: 2
+guid: 721ee1d4c11a3864f87f394acc7263dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1412772506686516004
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_0
+  - first:
+      213: 6567405710215226838
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_1
+  - first:
+      213: 6288855607533903993
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_2
+  - first:
+      213: 7117226005634147952
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_3
+  - first:
+      213: 2677412133397599188
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_4
+  - first:
+      213: 7311154150755825734
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_5
+  - first:
+      213: 4606979979571189074
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_6
+  - first:
+      213: -2871414945651619258
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_7
+  - first:
+      213: 8249070148285998471
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_8
+  - first:
+      213: -6387912023416608580
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_9
+  - first:
+      213: 1072347268222372732
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_10
+  - first:
+      213: -3598020107773066839
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_11
+  - first:
+      213: 6434915840138419272
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_12
+  - first:
+      213: -6447280433988212868
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_13
+  - first:
+      213: -4890217044196094054
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_14
+  - first:
+      213: 4186179074997639141
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_15
+  - first:
+      213: 3135632797825457193
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_16
+  - first:
+      213: 100599678911117539
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_17
+  - first:
+      213: -6274042132183638337
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_18
+  - first:
+      213: -2278170084418418776
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_19
+  - first:
+      213: -3075888267267785711
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_20
+  - first:
+      213: 2078826536193342867
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_21
+  - first:
+      213: -5276373357693520997
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_22
+  - first:
+      213: 8608815175715396901
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_23
+  - first:
+      213: -2049096247365889108
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_24
+  - first:
+      213: 3498631703460790834
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_25
+  - first:
+      213: -8697415171323134115
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_26
+  - first:
+      213: 2357512228684172397
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_27
+  - first:
+      213: 1486629474091914193
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_28
+  - first:
+      213: 2353942319894624114
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_29
+  - first:
+      213: 8381391163454596395
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_30
+  - first:
+      213: 4638822125562152852
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_31
+  - first:
+      213: 5854205431432087045
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_32
+  - first:
+      213: -6647489040297468059
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_33
+  - first:
+      213: -3172666664233995962
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_34
+  - first:
+      213: 2346299828576459391
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_35
+  - first:
+      213: -4931681469428982904
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_36
+  - first:
+      213: 2621994948074218177
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_37
+  - first:
+      213: -7402282082930341727
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_38
+  - first:
+      213: -8594476739088891669
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_39
+  - first:
+      213: 5355469005577945879
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_40
+  - first:
+      213: 2986892048075046850
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_41
+  - first:
+      213: 5202751061242722870
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_42
+  - first:
+      213: 2596853866063290163
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_43
+  - first:
+      213: -479395109351303652
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_44
+  - first:
+      213: -1527235605551227412
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_45
+  - first:
+      213: -3671230359391310273
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_46
+  - first:
+      213: -87875197267919559
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_47
+  - first:
+      213: 1383962538860153591
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_48
+  - first:
+      213: 1025565662933977600
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_49
+  - first:
+      213: 5652203094849025218
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_50
+  - first:
+      213: 5749523238729005089
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_51
+  - first:
+      213: -5495636794548486014
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_52
+  - first:
+      213: 2165194985119312199
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_53
+  - first:
+      213: -2722272160812536540
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_54
+  - first:
+      213: -8220093712765808082
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_55
+  - first:
+      213: -1255787176216315062
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_56
+  - first:
+      213: 1268802956877447465
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_57
+  - first:
+      213: 5280975835069815153
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_58
+  - first:
+      213: -5808828464738962548
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_59
+  - first:
+      213: -241649875366307628
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_60
+  - first:
+      213: 8983128174965402160
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_61
+  - first:
+      213: 2382627562108113325
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_62
+  - first:
+      213: 22402561601179851
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_63
+  - first:
+      213: -5965355387086853013
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_64
+  - first:
+      213: -1186436897429160763
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_65
+  - first:
+      213: -4390105618800502031
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_66
+  - first:
+      213: 3444318883754242411
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_67
+  - first:
+      213: -3839734057317102613
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_68
+  - first:
+      213: 8886859973441208465
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_69
+  - first:
+      213: -6115180180730447837
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_70
+  - first:
+      213: 2362664879564402370
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_71
+  - first:
+      213: -4873160761744108581
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_72
+  - first:
+      213: 2517133312014181395
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_73
+  - first:
+      213: 3900834065613428220
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_74
+  - first:
+      213: 1882774628460566018
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_75
+  - first:
+      213: -22526193414398057
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_76
+  - first:
+      213: 1220230775967520529
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_77
+  - first:
+      213: 63333547221277541
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_78
+  - first:
+      213: 3335364850577022927
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_79
+  - first:
+      213: -4969651815937016257
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_80
+  - first:
+      213: -7951077604997332523
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_81
+  - first:
+      213: 3106838948547797957
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_82
+  - first:
+      213: 599723954231616113
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_83
+  - first:
+      213: -7323836707807060884
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_84
+  - first:
+      213: 5362550418810211423
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_85
+  - first:
+      213: -510772974547225465
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_86
+  - first:
+      213: 8073347924855709172
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_87
+  - first:
+      213: -8009004864249594595
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_88
+  - first:
+      213: 2911103979370557676
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_89
+  - first:
+      213: 4569173169011618527
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_90
+  - first:
+      213: -7783046285456904128
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_91
+  - first:
+      213: 4667443427855473772
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_92
+  - first:
+      213: -9171283264919168154
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_93
+  - first:
+      213: -55500105236029721
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_94
+  - first:
+      213: 5134992706433862466
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_95
+  - first:
+      213: 1332882780617129257
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_96
+  - first:
+      213: -6489697309253597349
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_97
+  - first:
+      213: 1213036659875268158
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_98
+  - first:
+      213: -5609883242094566667
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_99
+  - first:
+      213: 8014502037548800135
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_100
+  - first:
+      213: -418719106228749134
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_101
+  - first:
+      213: 6393117158915781486
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_102
+  - first:
+      213: 6934961341466673057
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_103
+  - first:
+      213: -6560069299814082156
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_104
+  - first:
+      213: -4165716258712938318
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_105
+  - first:
+      213: 1633110340769560664
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_106
+  - first:
+      213: 4143291712060411621
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_107
+  - first:
+      213: 1654821867391655925
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_108
+  - first:
+      213: -2811796873413173363
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_109
+  - first:
+      213: -4487165733190428322
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_110
+  - first:
+      213: -4303205055921909683
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_111
+  - first:
+      213: 8056509691958677631
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_112
+  - first:
+      213: 7176323423730374386
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_113
+  - first:
+      213: -7195281177941571473
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_114
+  - first:
+      213: -6963036730077963948
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_115
+  - first:
+      213: -3906108051379951030
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_116
+  - first:
+      213: 330003918312436363
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_117
+  - first:
+      213: -5624605021327326795
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_118
+  - first:
+      213: -5378492891890315154
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_119
+  - first:
+      213: -2572504058932013025
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_120
+  - first:
+      213: -1994118585873893659
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_121
+  - first:
+      213: -5105682697207378496
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_122
+  - first:
+      213: 5953153766228624166
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_123
+  - first:
+      213: 1493108951589362217
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_124
+  - first:
+      213: -3144767556163971890
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_125
+  - first:
+      213: -907692048920487167
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_126
+  - first:
+      213: -3906697288589738185
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_127
+  - first:
+      213: -5978233933140544092
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_128
+  - first:
+      213: -683615747819455653
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_129
+  - first:
+      213: 5463025578610213636
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_130
+  - first:
+      213: -1823993554765450925
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_131
+  - first:
+      213: -5214448559517897718
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_132
+  - first:
+      213: 6621278020347239381
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_133
+  - first:
+      213: -680360274890182118
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_134
+  - first:
+      213: -2968929512128352119
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_135
+  - first:
+      213: 7971789372232302264
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_136
+  - first:
+      213: 1838297314837233894
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_137
+  - first:
+      213: -8916632013737146725
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_138
+  - first:
+      213: 477343926938785846
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_139
+  - first:
+      213: 89831453105709664
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_140
+  - first:
+      213: -3609948717694456131
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_141
+  - first:
+      213: 1848032563802705409
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_142
+  - first:
+      213: 9090028076025596129
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_143
+  - first:
+      213: -4823748983170577136
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_144
+  - first:
+      213: -5010926867451304054
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_145
+  - first:
+      213: -3131176030972808676
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_146
+  - first:
+      213: -4268091324742227440
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_147
+  - first:
+      213: 3649431038064669590
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_148
+  - first:
+      213: 7256437744482113877
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_149
+  - first:
+      213: 2406397535123967912
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_150
+  - first:
+      213: -3332567663545288966
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_151
+  - first:
+      213: -582857936374384969
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_152
+  - first:
+      213: 3131153285237108887
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_153
+  - first:
+      213: -8160325747229947596
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_154
+  - first:
+      213: 700927122421560576
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_155
+  - first:
+      213: -5088573481738459791
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_156
+  - first:
+      213: 1952983077828169725
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_157
+  - first:
+      213: 8070621946881481602
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_158
+  - first:
+      213: -8944658696677500314
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_159
+  - first:
+      213: 5146486545735285972
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_160
+  - first:
+      213: 8572717318831992165
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_161
+  - first:
+      213: -6094018385448978057
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_162
+  - first:
+      213: -8275701660089062931
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_163
+  - first:
+      213: 9022707196761818734
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_164
+  - first:
+      213: 4619974198523004913
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_165
+  - first:
+      213: -7703712449704949419
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_166
+  - first:
+      213: -4710071377207712652
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_167
+  - first:
+      213: -2437458294776121697
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_168
+  - first:
+      213: -8196651830364821855
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_169
+  - first:
+      213: 6521626334526727838
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_170
+  - first:
+      213: -4817705616521914304
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_171
+  - first:
+      213: -5500808631900608569
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_172
+  - first:
+      213: 82843968538194749
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_173
+  - first:
+      213: -2790129838889277984
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_174
+  - first:
+      213: 1004425600502088495
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_175
+  - first:
+      213: -56357227310242748
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_176
+  - first:
+      213: -3076955387064773277
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_177
+  - first:
+      213: -1147200525642486736
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_178
+  - first:
+      213: 2955333998795385221
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_179
+  - first:
+      213: 945784262989903255
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_180
+  - first:
+      213: -5997432265818372237
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_181
+  - first:
+      213: -4615509420054842618
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_182
+  - first:
+      213: 872403083551275128
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_183
+  - first:
+      213: -596537531180502256
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_184
+  - first:
+      213: -3316848212527274463
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_185
+  - first:
+      213: 5692579343725029384
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_186
+  - first:
+      213: 3153231820714872379
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_187
+  - first:
+      213: 7047240751831775983
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_188
+  - first:
+      213: 7429471642575530776
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_189
+  - first:
+      213: -876736535851930245
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_190
+  - first:
+      213: -7483323480399794903
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_191
+  - first:
+      213: -8247498029766901186
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_192
+  - first:
+      213: 5320771734191867834
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_193
+  - first:
+      213: -2827020713881377228
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_194
+  - first:
+      213: 6913940496650384206
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_195
+  - first:
+      213: -3590647218366386477
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_196
+  - first:
+      213: 4263437270232004960
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_197
+  - first:
+      213: 7029305544876363577
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_198
+  - first:
+      213: -4399866426914200486
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_199
+  - first:
+      213: 871021321257561060
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_200
+  - first:
+      213: 1155326646814293104
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_201
+  - first:
+      213: 2676286134305883798
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_202
+  - first:
+      213: -6694409788508842991
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_203
+  - first:
+      213: 7425781843427549946
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_204
+  - first:
+      213: -8588632771310817779
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_205
+  - first:
+      213: -1542799501900475889
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_206
+  - first:
+      213: -8441354575956128092
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_207
+  - first:
+      213: 761508903535662316
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_208
+  - first:
+      213: -6436357896284900979
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_209
+  - first:
+      213: -7839398361276265460
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_210
+  - first:
+      213: 6497692189735010875
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_211
+  - first:
+      213: -5202755596673191791
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_212
+  - first:
+      213: -4461278028286616599
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_213
+  - first:
+      213: -6318739432884458982
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_214
+  - first:
+      213: -6413704520354163281
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_215
+  - first:
+      213: 8966245923758993159
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_216
+  - first:
+      213: -2185842722962640589
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_217
+  - first:
+      213: 191268149961830157
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_218
+  - first:
+      213: 6575257090428009457
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_219
+  - first:
+      213: -1833282025880272472
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_220
+  - first:
+      213: -8055872710319322791
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_221
+  - first:
+      213: 6211711722853438617
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_222
+  - first:
+      213: 7614350690743006429
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_223
+  - first:
+      213: -2237471088919079619
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_224
+  - first:
+      213: 7268637939341164042
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_225
+  - first:
+      213: -8713084744599444170
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_226
+  - first:
+      213: 746638541129806368
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_227
+  - first:
+      213: -7184466963393140989
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_228
+  - first:
+      213: 1373677945723620001
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_229
+  - first:
+      213: 5677327245403863974
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_230
+  - first:
+      213: 6821386171771292178
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_231
+  - first:
+      213: -2073893763010081035
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_232
+  - first:
+      213: 3603621312196057039
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_233
+  - first:
+      213: 4397541889084784042
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_234
+  - first:
+      213: -8833551032112706672
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_235
+  - first:
+      213: -8400537496662694863
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_236
+  - first:
+      213: 6603798978256942130
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_237
+  - first:
+      213: -9020301577946574257
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_238
+  - first:
+      213: -3928402194035189758
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_239
+  - first:
+      213: 5104933508088236516
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_240
+  - first:
+      213: 5623199306494792854
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_241
+  - first:
+      213: -191015070557034594
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_242
+  - first:
+      213: 6367879387488567313
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_243
+  - first:
+      213: -1025065334825206866
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_244
+  - first:
+      213: -9176574721476176311
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_245
+  - first:
+      213: -3873649769299399524
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_246
+  - first:
+      213: 6361697354027301704
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_247
+  - first:
+      213: -3918719238584156083
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_248
+  - first:
+      213: -6603629409727322335
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_249
+  - first:
+      213: 4480969898311377023
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_250
+  - first:
+      213: 6851413649190685015
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_251
+  - first:
+      213: 3469241339002122672
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_252
+  - first:
+      213: -2456858587775474174
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_253
+  - first:
+      213: -5640417802115588656
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_254
+  - first:
+      213: 2908028313614113114
+    second: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bec711c1d2b9310800000000000000
+      internalID: 1412772506686516004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d52045a2bc142b50800000000000000
+      internalID: 6567405710215226838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97028c2fad0864750800000000000000
+      internalID: 6288855607533903993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076eefbe75775c260800000000000000
+      internalID: 7117226005634147952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d31c785624182520800000000000000
+      internalID: 2677412133397599188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6487ce5c6ff667560800000000000000
+      internalID: 7311154150755825734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2555da1f1e74fef30800000000000000
+      internalID: 4606979979571189074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a00b1025fa628d0800000000000000
+      internalID: -2871414945651619258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785addb28959a7270800000000000000
+      internalID: 8249070148285998471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86ecbfbd39957a0800000000000000
+      internalID: -6387912023416608580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b414ea82eb1ee00800000000000000
+      internalID: 1072347268222372732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1497d66c3411ec0800000000000000
+      internalID: -3598020107773066839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c1cfaecd96d4950800000000000000
+      internalID: 6434915840138419272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c776eccba98a686a0800000000000000
+      internalID: -6447280433988212868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f812ef185722cb0800000000000000
+      internalID: -4890217044196094054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7586b70bb481a30800000000000000
+      internalID: 4186179074997639141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c53749a61048b20800000000000000
+      internalID: 3135632797825457193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8f30effd6656100800000000000000
+      internalID: 100599678911117539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe1c5d0cef1ee8a0800000000000000
+      internalID: -6274042132183638337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a78154e0605260e0800000000000000
+      internalID: -2278170084418418776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c36bceaef3055d0800000000000000
+      internalID: -3075888267267785711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db57778b979dc10800000000000000
+      internalID: 2078826536193342867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93b758f26e86c6b0800000000000000
+      internalID: -5276373357693520997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d12857ac7a87770800000000000000
+      internalID: 8608815175715396901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca39b21d1d52093e0800000000000000
+      internalID: -2049096247365889108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23243bc6ff2ad8030800000000000000
+      internalID: 3498631703460790834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ff0398bf29c4780800000000000000
+      internalID: -8697415171323134115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_27
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c0c50a1e097b020800000000000000
+      internalID: 2357512228684172397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3dfd351a191a410800000000000000
+      internalID: 1486629474091914193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_29
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277f3177112eaa020800000000000000
+      internalID: 2353942319894624114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b252f4d4bdea05470800000000000000
+      internalID: 8381391163454596395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ca5a4528606040800000000000000
+      internalID: 4638822125562152852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5060caea2d05e3150800000000000000
+      internalID: 5854205431432087045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f54c010ff5fb3a0800000000000000
+      internalID: -6647489040297468059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641fb977a7c68f3d0800000000000000
+      internalID: -3172666664233995962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a1cda434bbf8020800000000000000
+      internalID: 2346299828576459391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b1f4d25d52f8bb0800000000000000
+      internalID: -4931681469428982904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c225da6382336420800000000000000
+      internalID: 2621994948074218177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8c2bf1aafc54990800000000000000
+      internalID: -7402282082930341727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0cf38f0f84ab880800000000000000
+      internalID: -8594476739088891669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7138613afa2725a40800000000000000
+      internalID: 5355469005577945879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfb3f31e72937920800000000000000
+      internalID: 2986892048075046850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ab82c5682e33840800000000000000
+      internalID: 5202751061242722870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_43
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f5d4c15d0e90420800000000000000
+      internalID: 2596853866063290163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c165e0020b8d859f0800000000000000
+      internalID: -479395109351303652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_45
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced5ac2fe4b2ecae0800000000000000
+      internalID: -1527235605551227412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ee9db607b2d0dc0800000000000000
+      internalID: -3671230359391310273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_47
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d374249fdc7cef0800000000000000
+      internalID: -87875197267919559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa0537b892d43310800000000000000
+      internalID: 1383962538860153591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a8409698a8b3e00800000000000000
+      internalID: 1025565662933977600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4f6d2a4c8a07e40800000000000000
+      internalID: 5652203094849025218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128bb406ce86acf40800000000000000
+      internalID: 5749523238729005089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2800f56d3739bb3b0800000000000000
+      internalID: -5495636794548486014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7496e750e515c0e10800000000000000
+      internalID: 2165194985119312199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d65d894eb883ad0800000000000000
+      internalID: -2722272160812536540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e221c26f15c5ced80800000000000000
+      internalID: -8220093712765808082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bb228773c829ee0800000000000000
+      internalID: -1255787176216315062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92145ae1191bb9110800000000000000
+      internalID: 1268802956877447465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17912ccca8bc94940800000000000000
+      internalID: 5280975835069815153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c837e0ea945e26fa0800000000000000
+      internalID: -5808828464738962548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_60
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d816caf7bc75acf0800000000000000
+      internalID: -241649875366307628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_61
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aad900b7b7aac70800000000000000
+      internalID: 8983128174965402160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1528fd42bc01120800000000000000
+      internalID: 2382627562108113325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc01c46d2079f4000800000000000000
+      internalID: 22402561601179851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ca9b991ecc63da0800000000000000
+      internalID: -5965355387086853013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc71548dede88fe0800000000000000
+      internalID: -1186436897429160763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa13f013363313c0800000000000000
+      internalID: -4390105618800502031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b617757a6cdaccf20800000000000000
+      internalID: 3444318883754242411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb05a9f73686bac0800000000000000
+      internalID: -3839734057317102613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190c99daf08745b70800000000000000
+      internalID: 8886859973441208465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3287d067604822ba0800000000000000
+      internalID: -6115180180730447837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1472
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce2ab5a03fd9c020800000000000000
+      internalID: 2362664879564402370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3ded63b1e0f5cb0800000000000000
+      internalID: -4873160761744108581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_73
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31468e23967aee220800000000000000
+      internalID: 2517133312014181395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_74
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf591a84aeb822630800000000000000
+      internalID: 3900834065613428220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_75
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20692899c85f02a10800000000000000
+      internalID: 1882774628460566018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f9463eb88ffaff0800000000000000
+      internalID: -22526193414398057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_77
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1171b89fc612fe010800000000000000
+      internalID: 1220230775967520529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_78
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b5d70968101e000800000000000000
+      internalID: 63333547221277541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_79
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf97faf8a8994e20800000000000000
+      internalID: 3335364850577022927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ef2b5f000480bb0800000000000000
+      internalID: -4969651815937016257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1029c7b0918a190800000000000000
+      internalID: -7951077604997332523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c32a8e1095bd1b20800000000000000
+      internalID: 3106838948547797957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172a44742c5a25800800000000000000
+      internalID: 599723954231616113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c913e41518c5a90800000000000000
+      internalID: -7323836707807060884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c0e43a13b9b6a40800000000000000
+      internalID: 5362550418810211423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7843e339fae59e8f0800000000000000
+      internalID: -510772974547225465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd5929c92b4a0070800000000000000
+      internalID: 8073347924855709172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df60e628c4ad090800000000000000
+      internalID: -8009004864249594595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0bb9245a1566820800000000000000
+      internalID: 2911103979370557676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_90
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2fe28e9c6f86f30800000000000000
+      internalID: 4569173169011618527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_91
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040fae4c3a01df390800000000000000
+      internalID: -7783046285456904128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c9e86811716c040800000000000000
+      internalID: 4667443427855473772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_93
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b120c467e09b080800000000000000
+      internalID: -9171283264919168154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eed866c2f2da3ff0800000000000000
+      internalID: -55500105236029721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_95
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b463ff8a8234740800000000000000
+      internalID: 5134992706433862466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d3be9b3d95f7210800000000000000
+      internalID: 1332882780617129257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57812e5ea6ffe5a0800000000000000
+      internalID: -6489697309253597349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36446b4a6295d010800000000000000
+      internalID: 1213036659875268158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2698be9e0b522b0800000000000000
+      internalID: -5609883242094566667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7889db7f32b393f60800000000000000
+      internalID: 8014502037548800135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcf09cf039603af0800000000000000
+      internalID: -418719106228749134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6331a01f2ae8b850800000000000000
+      internalID: 6393117158915781486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afff29d89eed3060800000000000000
+      internalID: 6934961341466673057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499d2a28ab3f5f4a0800000000000000
+      internalID: -6560069299814082156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8985432276036c0800000000000000
+      internalID: -4165716258712938318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858369cc339f9a610800000000000000
+      internalID: 1633110340769560664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_107
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee4e2a2cddef7930800000000000000
+      internalID: 4143291712060411621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff9d6488bb17f610800000000000000
+      internalID: 1654821867391655925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_109
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f57a324ad7af8d0800000000000000
+      internalID: -2811796873413173363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_110
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5911e82a826ab1c0800000000000000
+      internalID: -4487165733190428322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_111
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d401c1e0dc1f744c0800000000000000
+      internalID: -4303205055921909683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7050be21e87ecf60800000000000000
+      internalID: 8056509691958677631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f693c0d12c679360800000000000000
+      internalID: 7176323423730374386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f680db114e9352c90800000000000000
+      internalID: -7195281177941571473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45994b95cf25e5f90800000000000000
+      internalID: -6963036730077963948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a64373c67bac9c0800000000000000
+      internalID: -3906108051379951030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82ff75b0d8649400800000000000000
+      internalID: 330003918312436363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b108e5988361f1b0800000000000000
+      internalID: -5624605021327326795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e601ae71631cb55b0800000000000000
+      internalID: -5378492891890315154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_120
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f185b182031ac4cd0800000000000000
+      internalID: -2572504058932013025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_121
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e67bf026b77354e0800000000000000
+      internalID: -1994118585873893659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_122
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd881153a8f429b0800000000000000
+      internalID: -5105682697207378496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_123
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62306592fc9dd9250800000000000000
+      internalID: 5953153766228624166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_124
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a907e3ea698b410800000000000000
+      internalID: 1493108951589362217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec45ca1c19a8b54d0800000000000000
+      internalID: -3144767556163971890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_126
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bd5a204ea3763f0800000000000000
+      internalID: -907692048920487167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_127
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f70acb38f98c9c0800000000000000
+      internalID: -3906697288589738185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b8fe69eb090da0800000000000000
+      internalID: -5978233933140544092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bbb5c691f4386f0800000000000000
+      internalID: -683615747819455653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4034fe3c1d090db40800000000000000
+      internalID: 5463025578610213636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3517a9f968fdfa6e0800000000000000
+      internalID: -1823993554765450925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c636699ae82a7b0800000000000000
+      internalID: -5214448559517897718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_133
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db16e9474183eb50800000000000000
+      internalID: 6621278020347239381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1232e74fefde86f0800000000000000
+      internalID: -680360274890182118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_135
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9807a6ab65e3cc6d0800000000000000
+      internalID: -2968929512128352119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bef32c923c71ae60800000000000000
+      internalID: 7971789372232302264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_137
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e08d6a0ba1f28910800000000000000
+      internalID: 1838297314837233894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_138
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9642540d62c14480800000000000000
+      internalID: -8916632013737146725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_139
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63850e0c5cddf9600800000000000000
+      internalID: 477343926938785846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_140
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062e50c0b352f3100800000000000000
+      internalID: 89831453105709664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_141
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbee17084c2e6edc0800000000000000
+      internalID: -3609948717694456131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_142
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e80d253d785a910800000000000000
+      internalID: 1848032563802705409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_143
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e845d5cf54462e70800000000000000
+      internalID: 9090028076025596129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d477c6bd99e0db0800000000000000
+      internalID: -4823748983170577136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87aa16209c957ab0800000000000000
+      internalID: -5010926867451304054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_146
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12f5a05df3db84d0800000000000000
+      internalID: -3131176030972808676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a20dfad81b4c4c0800000000000000
+      internalID: -4268091324742227440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_148
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6933120913265a230800000000000000
+      internalID: 3649431038064669590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_149
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559d79eaeab04b460800000000000000
+      internalID: 7256437744482113877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_150
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af807dfecd356120800000000000000
+      internalID: 2406397535123967912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_151
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6fd60ed5750c1d0800000000000000
+      internalID: -3332567663545288966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_152
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b633e38bc549e7f0800000000000000
+      internalID: -582857936374384969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_153
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790fad7c257147b20800000000000000
+      internalID: 3131153285237108887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_154
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43982e8d7f2b0ce80800000000000000
+      internalID: -8160325747229947596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_155
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005bf5111813ab900800000000000000
+      internalID: 700927122421560576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_156
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175a187f061c169b0800000000000000
+      internalID: -5088573481738459791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_157
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff0c4e03c36a1b10800000000000000
+      internalID: 1952983077828169725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_158
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b975496eb900070800000000000000
+      internalID: 8070621946881481602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_159
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66add636e403ed380800000000000000
+      internalID: -8944658696677500314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcf0effe3efb6740800000000000000
+      internalID: 5146486545735285972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56de1d43bf868f670800000000000000
+      internalID: 8572717318831992165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_162
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7793d90e092bd6ba0800000000000000
+      internalID: -6094018385448978057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_163
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e74bcf2dc62d80800000000000000
+      internalID: -8275701660089062931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_164
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66495f1468173d70800000000000000
+      internalID: 9022707196761818734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_165
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f70f6e4e027d1040800000000000000
+      internalID: 4619974198523004913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_166
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559059fc75ae61590800000000000000
+      internalID: -7703712449704949419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_167
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474acc6990772aeb0800000000000000
+      internalID: -4710071377207712652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_168
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f963a0958986c2ed0800000000000000
+      internalID: -2437458294776121697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_169
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6ac878694af3e80800000000000000
+      internalID: -8196651830364821855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_170
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e966c432998718a50800000000000000
+      internalID: 6521626334526727838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_171
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0489ece5442142db0800000000000000
+      internalID: -4817705616521914304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_172
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7692e91b339a3b0800000000000000
+      internalID: -5500808631900608569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_173
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33b0848622562100800000000000000
+      internalID: 82843968538194749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_174
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e569cbb1b77749d0800000000000000
+      internalID: -2790129838889277984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f234c3113cf60fd00800000000000000
+      internalID: 1004425600502088495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_176
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444a5ad7667c73ff0800000000000000
+      internalID: -56357227310242748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_177
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365974cb0657c45d0800000000000000
+      internalID: -3076955387064773277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_178
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c20f633335410f0800000000000000
+      internalID: -1147200525642486736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_179
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58965d62d94730920800000000000000
+      internalID: 2955333998795385221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_180
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795faa5b6c9102d00800000000000000
+      internalID: 945784262989903255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_181
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3770e674127d4cca0800000000000000
+      internalID: -5997432265818372237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_182
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6037920f2aa62ffb0800000000000000
+      internalID: -4615509420054842618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_183
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87877087bf56b1c00800000000000000
+      internalID: 872403083551275128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_184
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0133cc6a64ca8b7f0800000000000000
+      internalID: -596537531180502256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_185
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1262c66cf1038f1d0800000000000000
+      internalID: -3316848212527274463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_186
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808e476a0ca100f40800000000000000
+      internalID: 5692579343725029384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_187
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e0b2862a782cb20800000000000000
+      internalID: 3153231820714872379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_188
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaf69b3024dcc160800000000000000
+      internalID: 7047240751831775983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_189
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b6d8c8819ca1760800000000000000
+      internalID: 7429471642575530776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_190
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d60fa04c435d3f0800000000000000
+      internalID: -876736535851930245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d2e6361f4e52890800000000000000
+      internalID: -7483323480399794903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_192
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3282023d300b8d80800000000000000
+      internalID: -8247498029766901186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_193
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7027b93bd27d940800000000000000
+      internalID: 5320771734191867834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_194
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436ed6093a764c8d0800000000000000
+      internalID: -2827020713881377228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_195
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43b805004043ff50800000000000000
+      internalID: 6913940496650384206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_196
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dee68301657b2ec0800000000000000
+      internalID: -3590647218366386477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_197
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069f65ecb95ca2b30800000000000000
+      internalID: 4263437270232004960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_198
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0a04762c1d8160800000000000000
+      internalID: 7029305544876363577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_199
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54ac94dbc880f2c0800000000000000
+      internalID: -4399866426914200486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_200
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb295dd64d761c00800000000000000
+      internalID: 871021321257561060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_201
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cb8eec67b880010800000000000000
+      internalID: 1155326646814293104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_202
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6960b904f04142520800000000000000
+      internalID: 2676286134305883798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_203
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114580f04cda813a0800000000000000
+      internalID: -6694409788508842991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_204
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af26b0d3e3dad0760800000000000000
+      internalID: 7425781843427549946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_205
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e6dbfbffb0fc880800000000000000
+      internalID: -8588632771310817779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_206
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f029291f600e69ae0800000000000000
+      internalID: -1542799501900475889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4405ccb84ada80800000000000000
+      internalID: -8441354575956128092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce45a88205c619a00800000000000000
+      internalID: 761508903535662316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_209
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8178a838967da6a0800000000000000
+      internalID: -6436357896284900979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_210
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c495fa9bcd43390800000000000000
+      internalID: -7839398361276265460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_211
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b324cfcce907c2a50800000000000000
+      internalID: 6497692189735010875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_212
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1907e17a9591cc7b0800000000000000
+      internalID: -5202755596673191791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_213
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb98b7254b5612c0800000000000000
+      internalID: -4461278028286616599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_214
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a2ba2c6f35f48a0800000000000000
+      internalID: -6318739432884458982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_215
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa519f158b1fdf6a0800000000000000
+      internalID: -6413704520354163281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_216
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fe27699218e6c70800000000000000
+      internalID: 8966245923758993159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_217
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33170f2ef935aa1e0800000000000000
+      internalID: -2185842722962640589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_218
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f22577e5587a200800000000000000
+      internalID: 191268149961830157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_219
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb74dd8c71004b50800000000000000
+      internalID: 6575257090428009457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_220
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a14c4ae5bfde86e0800000000000000
+      internalID: -1833282025880272472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_221
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95947a9a37ac33090800000000000000
+      internalID: -8055872710319322791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_222
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9941fcf96ee643650800000000000000
+      internalID: 6211711722853438617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4bcf45c9b9ba960800000000000000
+      internalID: 7614350690743006429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3595c536e7e2f0e0800000000000000
+      internalID: -2237471088919079619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_225
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e7b57e1b36fd460800000000000000
+      internalID: 7268637939341164042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_226
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6356644b697e41780800000000000000
+      internalID: -8713084744599444170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_227
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02278ab1cc79c5a00800000000000000
+      internalID: 746638541129806368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_228
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3072c6a9c55ab4c90800000000000000
+      internalID: -7184466963393140989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_229
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa05a640d8401310800000000000000
+      internalID: 1373677945723620001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_230
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abb1f7cc0be9ce40800000000000000
+      internalID: 5677327245403863974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_231
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a803cf49e6aae50800000000000000
+      internalID: 6821386171771292178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_232
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fec2e94c9c0833e0800000000000000
+      internalID: -2073893763010081035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_233
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7197a9d72a20230800000000000000
+      internalID: 3603621312196057039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_234
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad7cc78c05370d30800000000000000
+      internalID: 4397541889084784042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_235
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b03a1732ce86580800000000000000
+      internalID: -8833551032112706672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_236
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134221d97ab4b6b80800000000000000
+      internalID: -8400537496662694863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_237
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234b71bae2865ab50800000000000000
+      internalID: 6603798978256942130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_238
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f425997a18371d280800000000000000
+      internalID: -9020301577946574257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208daa1a4038b79c0800000000000000
+      internalID: -3928402194035189758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_240
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9869f7afd58d640800000000000000
+      internalID: 5104933508088236516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_241
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69458dce9fd990e40800000000000000
+      internalID: 5623199306494792854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_242
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a3bc2ec0695df0800000000000000
+      internalID: -191015070557034594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_243
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110c9cf70904f5850800000000000000
+      internalID: 6367879387488567313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_244
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab3d2e428c36c1f0800000000000000
+      internalID: -1025065334825206866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_245
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946559f09e146a080800000000000000
+      internalID: -9176574721476176311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_246
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca2acee080e3ac0800000000000000
+      internalID: -3873649769299399524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_247
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf65ba90a494850800000000000000
+      internalID: 6361697354027301704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_248
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40c3b16d99ed99c0800000000000000
+      internalID: -3918719238584156083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_249
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12761e41a023b54a0800000000000000
+      internalID: -6603629409727322335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_250
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70611e916a9f2e30800000000000000
+      internalID: 4480969898311377023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_251
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7590641e96c151f50800000000000000
+      internalID: 6851413649190685015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_252
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b17253fd98352030800000000000000
+      internalID: 3469241339002122672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_253
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2066644a12c77edd0800000000000000
+      internalID: -2456858587775474174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_254
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd5c18a4e539b1b0800000000000000
+      internalID: -5640417802115588656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1626935009_30-kartinkin-com-p-teksturi-instrumentov-mainkraft-krasivo-33_255
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1408
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a595fb508546b5820800000000000000
+      internalID: 2908028313614113114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
