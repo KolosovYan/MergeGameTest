@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5729653895802176765}
   - component: {fileID: 285145029047660225}
-  - component: {fileID: -7453569420895018187}
+  - component: {fileID: 5314740347705840310}
   - component: {fileID: 3437798273886056095}
   - component: {fileID: 4046118744013599521}
   m_Layer: 0
@@ -28,7 +28,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1431350058644309621}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3, y: -3, z: 0}
+  m_LocalPosition: {x: 0, y: -3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -85,7 +85,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &-7453569420895018187
+--- !u!114 &5314740347705840310
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -94,13 +94,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1431350058644309621}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bd5bf07527044c1459826eef09f873e8, type: 3}
+  m_Script: {fileID: 11500000, guid: 619209d279b0fcf4786f21b487313a88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ID: 0
-  mergeLevel: 2
   speed: 15
-  OnDefaultPos: 0
+  mergeLevel: 2
 --- !u!61 &3437798273886056095
 BoxCollider2D:
   m_ObjectHideFlags: 0

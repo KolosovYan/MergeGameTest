@@ -1,0 +1,6192 @@
+fileFormatVersion: 2
+guid: 9e21bbb20950484419ebb6c5e47513a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7089832978714799039
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_0
+  - first:
+      213: -8578114856807098441
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_1
+  - first:
+      213: -8333816346616136404
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_2
+  - first:
+      213: 1255450823295092380
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_3
+  - first:
+      213: 1637930717196569479
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_4
+  - first:
+      213: -8289172667427577703
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_5
+  - first:
+      213: -913091065900086001
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_6
+  - first:
+      213: 4329168426902084724
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_7
+  - first:
+      213: -738368092711954997
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_8
+  - first:
+      213: -6841459950289953018
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_9
+  - first:
+      213: -281905146884324727
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_10
+  - first:
+      213: -8232402232015404078
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_11
+  - first:
+      213: -3490337340289280010
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_12
+  - first:
+      213: -1267110618075380722
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_13
+  - first:
+      213: -5883091959340792120
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_14
+  - first:
+      213: 5440505909655277354
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_15
+  - first:
+      213: 8642665939420476843
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_16
+  - first:
+      213: 1635016691599709683
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_17
+  - first:
+      213: 4480760632545210128
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_18
+  - first:
+      213: -3621167091216526144
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_19
+  - first:
+      213: -1754584724825571648
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_20
+  - first:
+      213: -8016293603309457579
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_21
+  - first:
+      213: -4878287689393332113
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_22
+  - first:
+      213: -8267001619146720207
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_23
+  - first:
+      213: 8953283423993889051
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_24
+  - first:
+      213: 8843055503334825648
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_25
+  - first:
+      213: -1336540554022617839
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_26
+  - first:
+      213: 6361437060593658869
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_27
+  - first:
+      213: 1412115009296270502
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_28
+  - first:
+      213: 7253777325345704812
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_29
+  - first:
+      213: -2905100911121034930
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_30
+  - first:
+      213: 501649312986633102
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_31
+  - first:
+      213: -8031549446105077139
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_32
+  - first:
+      213: 699714323238467876
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_33
+  - first:
+      213: -3588181038276804762
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_34
+  - first:
+      213: -7741400896792831849
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_35
+  - first:
+      213: 2072383019314283211
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_36
+  - first:
+      213: 5398004754634537398
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_37
+  - first:
+      213: 5370965823552822031
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_38
+  - first:
+      213: 2567008481689805997
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_39
+  - first:
+      213: -281103952720690680
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_40
+  - first:
+      213: 2845172489163793370
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_41
+  - first:
+      213: 7148262626169662300
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_42
+  - first:
+      213: 1552642429557642579
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_43
+  - first:
+      213: -8722462861600317258
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_44
+  - first:
+      213: 4268097584657306278
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_45
+  - first:
+      213: -2234112981112450536
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_46
+  - first:
+      213: 6323245986877942592
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_47
+  - first:
+      213: -5224508701776824075
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_48
+  - first:
+      213: 5067089839272308096
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_49
+  - first:
+      213: 2124632642468228594
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_50
+  - first:
+      213: 6150447254986977084
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_51
+  - first:
+      213: -2760263665997840083
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_52
+  - first:
+      213: 4697511961700149657
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_53
+  - first:
+      213: -8837011432387649437
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_54
+  - first:
+      213: -1130390751391538193
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_55
+  - first:
+      213: -8463478158498723194
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_56
+  - first:
+      213: 4441394247754077284
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_57
+  - first:
+      213: 8672614154101639695
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_58
+  - first:
+      213: 5991855406396914832
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_59
+  - first:
+      213: 4556128046391643834
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_60
+  - first:
+      213: -4701825465382009545
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_61
+  - first:
+      213: 8060623852919832008
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_62
+  - first:
+      213: -564364454156102683
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_63
+  - first:
+      213: -41176364120934846
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_64
+  - first:
+      213: 7279425542849618996
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_65
+  - first:
+      213: -1151552608961965947
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_66
+  - first:
+      213: -8972441643317551637
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_67
+  - first:
+      213: 1097351966792688551
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_68
+  - first:
+      213: -6402266150972715058
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_69
+  - first:
+      213: -8276365261983839588
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_70
+  - first:
+      213: -1214402634300553890
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_71
+  - first:
+      213: 3599008982241310175
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_72
+  - first:
+      213: -332894184369272206
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_73
+  - first:
+      213: -4030162489487832891
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_74
+  - first:
+      213: -3195729420503103687
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_75
+  - first:
+      213: -8046457556184077040
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_76
+  - first:
+      213: 6614843540165785950
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_77
+  - first:
+      213: 3787505337463427791
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_78
+  - first:
+      213: -526717191818175434
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_79
+  - first:
+      213: -7727583861901976278
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_80
+  - first:
+      213: 8156696232218955623
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_81
+  - first:
+      213: 8987115011480321006
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_82
+  - first:
+      213: -3307939388724446596
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_83
+  - first:
+      213: -3396562103268200754
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_84
+  - first:
+      213: 6019086983305222255
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_85
+  - first:
+      213: 1798816209596291145
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_86
+  - first:
+      213: -7103840725119558341
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_87
+  - first:
+      213: 5467972682744391643
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_88
+  - first:
+      213: 8449834854738685167
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_89
+  - first:
+      213: 3907014550810314373
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_90
+  - first:
+      213: 5363074785347915389
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_91
+  - first:
+      213: -2959219105878496656
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_92
+  - first:
+      213: 6887200468911568477
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_93
+  - first:
+      213: 4255470542093585656
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_94
+  - first:
+      213: -9158907217424172690
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_95
+  - first:
+      213: -5537827865599388146
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_96
+  - first:
+      213: -5316157526011831665
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_97
+  - first:
+      213: -819735129026591759
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_98
+  - first:
+      213: -8521042770374401874
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_99
+  - first:
+      213: -7066397793289875499
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_100
+  - first:
+      213: -5709274288111525036
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_101
+  - first:
+      213: -2814676305381513730
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_102
+  - first:
+      213: 239612370645030569
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_103
+  - first:
+      213: -8947901444596790906
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_104
+  - first:
+      213: 610564655842273482
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_105
+  - first:
+      213: -2808700118142578615
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_106
+  - first:
+      213: 837186856189189666
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_107
+  - first:
+      213: 1349997286784561434
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_108
+  - first:
+      213: -887302107755279955
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_109
+  - first:
+      213: 5893851331463770521
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_110
+  - first:
+      213: 139836782320807308
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_111
+  - first:
+      213: -2190513030810085222
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_112
+  - first:
+      213: 7166515196932519148
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_113
+  - first:
+      213: 3596942717476237307
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_114
+  - first:
+      213: 790123206018678452
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_115
+  - first:
+      213: -5449820247664752684
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_116
+  - first:
+      213: 7749275300484313512
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_117
+  - first:
+      213: -7539749251964107098
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_118
+  - first:
+      213: -129885136057489979
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_119
+  - first:
+      213: 2486610554604291930
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_120
+  - first:
+      213: 6206708335026730480
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_121
+  - first:
+      213: 2526791149976538328
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_122
+  - first:
+      213: -7607144920238710972
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_123
+  - first:
+      213: -6253329805031079947
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_124
+  - first:
+      213: -7956749048725729526
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_125
+  - first:
+      213: 4488955396572097842
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_126
+  - first:
+      213: 6002767784234853596
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_127
+  - first:
+      213: 5359804432716130953
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_128
+  - first:
+      213: -8989827847831153117
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_129
+  - first:
+      213: -5864087335812850327
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_130
+  - first:
+      213: 508870057494181874
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_131
+  - first:
+      213: -5736120834266189399
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_132
+  - first:
+      213: -4968256812009050063
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_133
+  - first:
+      213: 1114095798551284581
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_134
+  - first:
+      213: -3791464349527655180
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_135
+  - first:
+      213: 3989615397317142510
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_136
+  - first:
+      213: 7069926485399677192
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_137
+  - first:
+      213: -6363171673256328502
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_138
+  - first:
+      213: 1413613229495841837
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_139
+  - first:
+      213: -5435412579391556301
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_140
+  - first:
+      213: -8027904273678075773
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_141
+  - first:
+      213: -8323042707307594399
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_142
+  - first:
+      213: 2615219381046801704
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_143
+  - first:
+      213: -3219243676159224900
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_144
+  - first:
+      213: -7565049751167297994
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_145
+  - first:
+      213: 1906488236529136117
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_146
+  - first:
+      213: -2224650297227513228
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_147
+  - first:
+      213: -1837872451347964621
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_148
+  - first:
+      213: -3163065234132483013
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_149
+  - first:
+      213: 6327016228986441873
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_150
+  - first:
+      213: -6101408962274100896
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_151
+  - first:
+      213: 63530307292134848
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_152
+  - first:
+      213: -1737519715747384998
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_153
+  - first:
+      213: 7088439172499077956
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_154
+  - first:
+      213: -1353331211519177400
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_155
+  - first:
+      213: -5533674845338649199
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_156
+  - first:
+      213: -1160069144671249568
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_157
+  - first:
+      213: -102493536836153321
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_158
+  - first:
+      213: -1382922654166216746
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_159
+  - first:
+      213: -6690756516167851377
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_160
+  - first:
+      213: -980927552356315020
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_161
+  - first:
+      213: -4085283728891569818
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_162
+  - first:
+      213: 8614300110068593845
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_163
+  - first:
+      213: 2394594654362121349
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_164
+  - first:
+      213: 2126179026398606592
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_165
+  - first:
+      213: 6281378085397231567
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_166
+  - first:
+      213: 8838951088030320873
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_167
+  - first:
+      213: -3737200778508869052
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_168
+  - first:
+      213: -5842971853843228025
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_169
+  - first:
+      213: 5205009485671800517
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_170
+  - first:
+      213: 2429196849924149129
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_171
+  - first:
+      213: 4388274438515068864
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_172
+  - first:
+      213: -4257606603704987303
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_173
+  - first:
+      213: -2509169213836954645
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_174
+  - first:
+      213: -7928589283290520316
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_175
+  - first:
+      213: -8895450399505167060
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_176
+  - first:
+      213: -832689100868565230
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_177
+  - first:
+      213: -5624548290947807257
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_178
+  - first:
+      213: 4868901543325698437
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_179
+  - first:
+      213: 4583480257935948169
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_180
+  - first:
+      213: -2274574766479876301
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_181
+  - first:
+      213: -2496273269740307234
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_182
+  - first:
+      213: 9182648050278121314
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_183
+  - first:
+      213: -4272192930617804298
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_184
+  - first:
+      213: 7554461734929238628
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_185
+  - first:
+      213: -6891092491255921706
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_186
+  - first:
+      213: -1348483924559561505
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_187
+  - first:
+      213: -4378408204666769928
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_188
+  - first:
+      213: 7871371988546042491
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_189
+  - first:
+      213: -6194274082208311073
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_190
+  - first:
+      213: -3146518067782552275
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_191
+  - first:
+      213: 3671366878105565359
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_192
+  - first:
+      213: -2483089680066151400
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_193
+  - first:
+      213: -289364928024748141
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_194
+  - first:
+      213: 4482864846250853503
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_195
+  - first:
+      213: 927331092160643374
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_196
+  - first:
+      213: 10696986080787614
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_197
+  - first:
+      213: 2341078028244866014
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_198
+  - first:
+      213: 770950079153811142
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_199
+  - first:
+      213: 4730964602537509564
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_200
+  - first:
+      213: -4062808662759050434
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_201
+  - first:
+      213: 3311407515348066009
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_202
+  - first:
+      213: 2063810189571654450
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_203
+  - first:
+      213: 998689488831001002
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_204
+  - first:
+      213: -6375008909512728532
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_205
+  - first:
+      213: -4887887106290717958
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_206
+  - first:
+      213: 4578644050782995797
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_207
+  - first:
+      213: -5800905640800464244
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_208
+  - first:
+      213: -6786954908324214822
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_209
+  - first:
+      213: -7491581754477920205
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_210
+  - first:
+      213: 1189854197026620516
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_211
+  - first:
+      213: -5284871550287829582
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_212
+  - first:
+      213: -6789012473952376012
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_213
+  - first:
+      213: 5539865625168570760
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_214
+  - first:
+      213: 6659100169419695491
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_215
+  - first:
+      213: -3583036708696840872
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_216
+  - first:
+      213: 7048531089865512822
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_217
+  - first:
+      213: 7255445973775066222
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_218
+  - first:
+      213: -6712259447839587167
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_219
+  - first:
+      213: 2308812976673682685
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_220
+  - first:
+      213: 1423454503654940802
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_221
+  - first:
+      213: -457460132186828635
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_222
+  - first:
+      213: -4589029082351498014
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_223
+  - first:
+      213: 788914515426738867
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_224
+  - first:
+      213: 6266607873589707980
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_225
+  - first:
+      213: 1768761231932238296
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_226
+  - first:
+      213: -4499883521605724177
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_227
+  - first:
+      213: -7814033800235030237
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_228
+  - first:
+      213: -7921832838905094431
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_229
+  - first:
+      213: -3536881887504432420
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_230
+  - first:
+      213: -878138434215528318
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_231
+  - first:
+      213: -5998039203063350377
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_232
+  - first:
+      213: 2138466355727212794
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_233
+  - first:
+      213: 6576558003487761312
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_234
+  - first:
+      213: 7700716281518314360
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_235
+  - first:
+      213: -394503657175010338
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_236
+  - first:
+      213: -571364834971102796
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_237
+  - first:
+      213: -2672790276956009378
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_238
+  - first:
+      213: -8395664875613370861
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_239
+  - first:
+      213: 1725581875469032374
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_240
+  - first:
+      213: 2970042573003279870
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_241
+  - first:
+      213: 8682834251554614924
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_242
+  - first:
+      213: -150650048222192688
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_243
+  - first:
+      213: -8352141747401296511
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_244
+  - first:
+      213: 2117438629209689066
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_245
+  - first:
+      213: 8561392851700872267
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_246
+  - first:
+      213: 1317895383996481031
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_247
+  - first:
+      213: -6553382447675801104
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_248
+  - first:
+      213: 5114548993065496808
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_249
+  - first:
+      213: 2935391506049238293
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_250
+  - first:
+      213: -2829569375187478562
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_251
+  - first:
+      213: -2430945027368907278
+    second: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_252
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144dada287adb9d90800000000000000
+      internalID: -7089832978714799039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7138d8cf964f880800000000000000
+      internalID: -8578114856807098441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2df99cef26585c80800000000000000
+      internalID: -8333816346616136404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96c9734fd14c6110800000000000000
+      internalID: 1255450823295092380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bc3352f491bb610800000000000000
+      internalID: 1637930717196569479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9902a1c7061f6fc80800000000000000
+      internalID: -8289172667427577703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d4179638c0453f0800000000000000
+      internalID: -913091065900086001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cd5525fbb441c30800000000000000
+      internalID: 4329168426902084724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5db68b12ac0c5f0800000000000000
+      internalID: -738368092711954997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fd7ed3c604e01a0800000000000000
+      internalID: -6841459950289953018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9820b9333c8761cf0800000000000000
+      internalID: -281905146884324727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3c69089c1a0cd80800000000000000
+      internalID: -8232402232015404078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f796cd7ea4df8fc0800000000000000
+      internalID: -3490337340289280010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04cd763b915a6ee0800000000000000
+      internalID: -1267110618075380722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6098e680f0b5ea0800000000000000
+      internalID: -5883091959340792120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f8a6fbc4f808b40800000000000000
+      internalID: 5440505909655277354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5768f81eae0f770800000000000000
+      internalID: 8642665939420476843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f592a0b40fb0b610800000000000000
+      internalID: 1635016691599709683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f69622e0cde2e30800000000000000
+      internalID: 4480760632545210128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c454bf57b70fbdc0800000000000000
+      internalID: -3621167091216526144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cef17c2d7676a7e0800000000000000
+      internalID: -1754584724825571648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe08f907760c090800000000000000
+      internalID: -8016293603309457579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ac895137dc4cb0800000000000000
+      internalID: -4878287689393332113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c3e2de3d5b54d80800000000000000
+      internalID: -8267001619146720207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118c8c66d3704c70800000000000000
+      internalID: 8953283423993889051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bed555b028d8ba70800000000000000
+      internalID: 8843055503334825648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11df3998277a37de0800000000000000
+      internalID: -1336540554022617839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fba0b16d4d584850800000000000000
+      internalID: 6361437060593658869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a40a178e17d89310800000000000000
+      internalID: 1412115009296270502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b83059b089aa460800000000000000
+      internalID: 7253777325345704812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4197fbfc120fa7d0800000000000000
+      internalID: -2905100911121034930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83136e646736f600800000000000000
+      internalID: 501649312986633102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aebece4543a8090800000000000000
+      internalID: -8031549446105077139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b1e04872e5b900800000000000000
+      internalID: 699714323238467876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ff7bf4b58343ec0800000000000000
+      internalID: -3588181038276804762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d5ca66e4019490800000000000000
+      internalID: -7741400896792831849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc287c8406592cc10800000000000000
+      internalID: 2072383019314283211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b97cd779b099ea40800000000000000
+      internalID: 5398004754634537398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b11adb5f0898a40800000000000000
+      internalID: 5370965823552822031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4298e0d98df9320800000000000000
+      internalID: 2567008481689805997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8020021c171591cf0800000000000000
+      internalID: -281103952720690680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad36255fd451c7720800000000000000
+      internalID: 2845172489163793370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b2b024cfab33360800000000000000
+      internalID: 7148262626169662300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3559bfc30181c8510800000000000000
+      internalID: 1552642429557642579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0a6cfad3693f680800000000000000
+      internalID: -8722462861600317258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a29330d3245b3b30800000000000000
+      internalID: 4268097584657306278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81214bc9416def0e0800000000000000
+      internalID: -2234112981112450536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b264b19bea0c750800000000000000
+      internalID: 6323245986877942592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8b7a03401de77b0800000000000000
+      internalID: -5224508701776824075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d21dabc5be15640800000000000000
+      internalID: 5067089839272308096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fda48ca1263c7d10800000000000000
+      internalID: 2124632642468228594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f66432137ca5550800000000000000
+      internalID: 6150447254986977084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2108cdf1d291b9d0800000000000000
+      internalID: -2760263665997840083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999294d9d3ae03140800000000000000
+      internalID: 4697511961700149657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360e7783ce0ac5580800000000000000
+      internalID: -8837011432387649437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3abe5c99b0050f0800000000000000
+      internalID: -1130390751391538193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a086ec47fab8a80800000000000000
+      internalID: -8463478158498723194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46458dc698003ad30800000000000000
+      internalID: 4441394247754077284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ac049af905b5870800000000000000
+      internalID: 8672614154101639695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cbac3feb8572350800000000000000
+      internalID: 5991855406396914832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe4e5c915e9a3f30800000000000000
+      internalID: 4556128046391643834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735050c86a2cfbeb0800000000000000
+      internalID: -4701825465382009545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdb35defa61ddf60800000000000000
+      internalID: 8060623852919832008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e31b22e489fa28f0800000000000000
+      internalID: -564364454156102683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246fd63a056bd6ff0800000000000000
+      internalID: -41176364120934846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434e47296f6b50560800000000000000
+      internalID: 7279425542849618996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580d5aad00dd400f0800000000000000
+      internalID: -1151552608961965947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed922a0ddb7b7380800000000000000
+      internalID: -8972441643317551637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3214ebcc39a3f00800000000000000
+      internalID: 1097351966792688551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf83c93bd49627a0800000000000000
+      internalID: -6402266150972715058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0210f4a1742d80800000000000000
+      internalID: -8276365261983839588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_71
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5587300d33952fe0800000000000000
+      internalID: -1214402634300553890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_72
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5fee9d99f32f130800000000000000
+      internalID: 3599008982241310175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_73
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a40e8c082516bf0800000000000000
+      internalID: -332894184369272206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_74
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c849fa819cf118c0800000000000000
+      internalID: -4030162489487832891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_75
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937c5a4160d76a3d0800000000000000
+      internalID: -3195729420503103687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_76
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01de36f0c7d355090800000000000000
+      internalID: -8046457556184077040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_77
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e597e502725accb50800000000000000
+      internalID: 6614843540165785950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc25760990cef8430800000000000000
+      internalID: 3787505337463427791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c16943189b0b8f0800000000000000
+      internalID: -526717191818175434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d9a4b8b6b12c490800000000000000
+      internalID: -7727583861901976278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f8d26d108623170800000000000000
+      internalID: 8156696232218955623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb7dd6bc75a8bc70800000000000000
+      internalID: 8987115011480321006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a7e84f6a6d712d0800000000000000
+      internalID: -3307939388724446596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece252943ccfcd0d0800000000000000
+      internalID: -3396562103268200754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68d51888b7188350800000000000000
+      internalID: 6019086983305222255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9489335efcda6f810800000000000000
+      internalID: 1798816209596291145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_87
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d9b4e8f761a6d90800000000000000
+      internalID: -7103840725119558341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_88
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7e4843f2422eb40800000000000000
+      internalID: 5467972682744391643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_89
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece96ff708d34570800000000000000
+      internalID: 8449834854738685167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586c451a801883630800000000000000
+      internalID: 3907014550810314373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_91
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e448c3a187d6a40800000000000000
+      internalID: 5363074785347915389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_92
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a209dd6edbee6d0800000000000000
+      internalID: -2959219105878496656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_93
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56b0662650449f50800000000000000
+      internalID: 6887200468911568477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc80ad59e77e0b30800000000000000
+      internalID: 4255470542093585656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69bba6696605e080800000000000000
+      internalID: -9158907217424172690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0650bb95eea523b0800000000000000
+      internalID: -5537827865599388146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a9b0475e63936b0800000000000000
+      internalID: -5316157526011831665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f306784e37bf94f0800000000000000
+      internalID: -819735129026591759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_99
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea06ceb2fbc2fb980800000000000000
+      internalID: -8521042770374401874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df4a5975ac1fed90800000000000000
+      internalID: -7066397793289875499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_101
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45367d3b84594c0b0800000000000000
+      internalID: -5709274288111525036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_102
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5a60420d240f8d0800000000000000
+      internalID: -2814676305381513730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6161c7e26435300800000000000000
+      internalID: 239612370645030569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_104
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6898a9d4b0ba2d380800000000000000
+      internalID: -8947901444596790906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_105
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac823efc159297800800000000000000
+      internalID: 610564655842273482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_106
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9409389af1e7509d0800000000000000
+      internalID: -2808700118142578615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_107
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e58c592094e9b00800000000000000
+      internalID: 837186856189189666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_108
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11f88631672cb210800000000000000
+      internalID: 1349997286784561434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_109
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da98ac22f6bafa3f0800000000000000
+      internalID: -887302107755279955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9917cda1f8a2bc150800000000000000
+      internalID: 5893851331463770521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8de3c800dcc0f100800000000000000
+      internalID: 139836782320807308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9853ba110cb991e0800000000000000
+      internalID: -2190513030810085222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4f99e0a93947360800000000000000
+      internalID: 7166515196932519148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_114
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff69981858eae130800000000000000
+      internalID: 3596942717476237307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be398f9ed417fa00800000000000000
+      internalID: 790123206018678452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_116
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70630fb595e54b0800000000000000
+      internalID: -5449820247664752684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_117
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1731014d4fa8b60800000000000000
+      internalID: 7749275300484313512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6892da00e6d5790800000000000000
+      internalID: -7539749251964107098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_119
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5a0bb282e823ef0800000000000000
+      internalID: -129885136057489979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_120
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a570de1ff17328220800000000000000
+      internalID: 2486610554604291930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_121
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f579bd9858a22650800000000000000
+      internalID: 6206708335026730480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_122
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc3f3d927f01320800000000000000
+      internalID: 2526791149976538328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_123
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f114adffdfd6690800000000000000
+      internalID: -7607144920238710972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_124
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff72c38ca5b739a0800000000000000
+      internalID: -6253329805031079947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f86c795e2f39190800000000000000
+      internalID: -7956749048725729526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_126
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23da0415629fb4e30800000000000000
+      internalID: 4488955396572097842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd42a78ee7d1e4350800000000000000
+      internalID: 6002767784234853596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aeb9debb9d16a40800000000000000
+      internalID: 5359804432716130953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_129
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3261c1ad337bd3380800000000000000
+      internalID: -8989827847831153117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d120923a39e9ea0800000000000000
+      internalID: -5864087335812850327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7f5c50f9edf0700800000000000000
+      internalID: 508870057494181874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_132
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1b8d41e743560b0800000000000000
+      internalID: -5736120834266189399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_133
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130394f90c43d0bb0800000000000000
+      internalID: -4968256812009050063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_134
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b876ed930167f00800000000000000
+      internalID: 1114095798551284581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_135
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcb8db1343026bc0800000000000000
+      internalID: -3791464349527655180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_136
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee76483e016fd5730800000000000000
+      internalID: 3989615397317142510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_137
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809af5e2eac6d1260800000000000000
+      internalID: 7069926485399677192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_138
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac28ab2a31971b7a0800000000000000
+      internalID: -6363171673256328502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_139
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2474e91eb92e9310800000000000000
+      internalID: 1413613229495841837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_140
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3353dad9e098194b0800000000000000
+      internalID: -5435412579391556301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388f394c897279090800000000000000
+      internalID: -8027904273678075773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d768c41cc9e7c80800000000000000
+      internalID: -8323042707307594399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825f209cb202b4420800000000000000
+      internalID: 2615219381046801704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_144
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb35b1dcee2f253d0800000000000000
+      internalID: -3219243676159224900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6361489255b830790800000000000000
+      internalID: -7565049751167297994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_146
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1b7ca33f4357a10800000000000000
+      internalID: 1906488236529136117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472794467547021e0800000000000000
+      internalID: -2224650297227513228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_148
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d9de23eb09e76e0800000000000000
+      internalID: -1837872451347964621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_149
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34452e9de88a14d0800000000000000
+      internalID: -3163065234132483013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_150
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1905ed00db31ec750800000000000000
+      internalID: 6327016228986441873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_151
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069744e10e0735ba0800000000000000
+      internalID: -6101408962274100896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_152
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd7e965a74b1e000800000000000000
+      internalID: 63530307292134848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_153
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51b3a8360713e7e0800000000000000
+      internalID: -1737519715747384998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_154
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b75c80fd13f5260800000000000000
+      internalID: 7088439172499077956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_155
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d43f1fe60083de0800000000000000
+      internalID: -1353331211519177400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_156
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d331dfb007433b0800000000000000
+      internalID: -5533674845338649199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b9afc524b96efe0800000000000000
+      internalID: -1160069144671249568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7109b19dbaed39ef0800000000000000
+      internalID: -102493536836153321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df059e4c2fdecce0800000000000000
+      internalID: -1382922654166216746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f826f2fc568a523a0800000000000000
+      internalID: -6690756516167851377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470986b969b0362f0800000000000000
+      internalID: -980927552356315020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_162
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6691cb4e7182e47c0800000000000000
+      internalID: -4085283728891569818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b43f314f442c8770800000000000000
+      internalID: 8614300110068593845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_164
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584bd4aa62f4b3120800000000000000
+      internalID: 2394594654362121349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_165
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005ff5d3f84b18d10800000000000000
+      internalID: 2126179026398606592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_166
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc77608a610fb2750800000000000000
+      internalID: 6281378085397231567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_167
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8891d0f234aaa70800000000000000
+      internalID: 8838951088030320873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_168
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4426aa641bbc22cc0800000000000000
+      internalID: -3737200778508869052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_169
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a911b6e0899eea0800000000000000
+      internalID: -5842971853843228025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_170
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce9106cc88eb3840800000000000000
+      internalID: 5205009485671800517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_171
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f0a312aad36b120800000000000000
+      internalID: 2429196849924149129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_172
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf0e9c0a5846ec30800000000000000
+      internalID: 4388274438515068864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9519ec80a51f9e4c0800000000000000
+      internalID: -4257606603704987303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_174
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3f6e7e4e3ad2dd0800000000000000
+      internalID: -2509169213836954645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_175
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405ef77ed0ef7f190800000000000000
+      internalID: -7928589283290520316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_176
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d4364edf20d8480800000000000000
+      internalID: -8895450399505167060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_177
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217c36eaca1b174f0800000000000000
+      internalID: -832689100868565230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e78608212791f1b0800000000000000
+      internalID: -5624548290947807257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_179
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58987483820d19340800000000000000
+      internalID: 4868901543325698437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_180
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989b941a20bcb9f30800000000000000
+      internalID: 4583480257935948169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_181
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f56e41d461f60e0800000000000000
+      internalID: -2274574766479876301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_182
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc73dedfa47b5dd0800000000000000
+      internalID: -2496273269740307234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_183
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fb24effb15f6f70800000000000000
+      internalID: 9182648050278121314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_184
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f937962a2f16b4c0800000000000000
+      internalID: -4272192930617804298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_185
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a0db33ce6d6d860800000000000000
+      internalID: 7554461734929238628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_186
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d34458c3ebed50a0800000000000000
+      internalID: -6891092491255921706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_187
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc7d43e309394de0800000000000000
+      internalID: -1348483924559561505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_188
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd6e278fe4cc33c0800000000000000
+      internalID: -4378408204666769928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a3f388e1bbc3d60800000000000000
+      internalID: 7871371988546042491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd890987a84890aa0800000000000000
+      internalID: -6194274082208311073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_191
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f8720d725554d0800000000000000
+      internalID: -3146518067782552275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_192
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8fd9159b053f230800000000000000
+      internalID: 3671366878105565359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_193
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf73a871b4a8dd0800000000000000
+      internalID: -2483089680066151400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_194
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fd0ae8128fbfbf0800000000000000
+      internalID: -289364928024748141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_195
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f744ed093d5563e30800000000000000
+      internalID: 4482864846250853503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_196
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21096117ba8edc00800000000000000
+      internalID: 927331092160643374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_197
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c33872ad0062000800000000000000
+      internalID: 10696986080787614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_198
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d109201e2d7020800000000000000
+      internalID: 2341078028244866014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_199
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cea5872307f2ba00800000000000000
+      internalID: 770950079153811142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_200
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb202338d33c7a140800000000000000
+      internalID: 4730964602537509564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_201
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33fdd10c010e97c0800000000000000
+      internalID: -4062808662759050434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_202
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de51e2379b74fd20800000000000000
+      internalID: 3311407515348066009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_203
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2330041de6024ac10800000000000000
+      internalID: 2063810189571654450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_204
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa130be7cce0cdd00800000000000000
+      internalID: 998689488831001002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c202b8c4c2b6787a0800000000000000
+      internalID: -6375008909512728532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_206
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa645fe29cba2cb0800000000000000
+      internalID: -4887887106290717958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55540e7618c9a8f30800000000000000
+      internalID: 4578644050782995797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c825780ed0b0f7fa0800000000000000
+      internalID: -5800905640800464244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_209
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7cdbe3874efc1a0800000000000000
+      internalID: -6786954908324214822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_210
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330cb8e161e880890800000000000000
+      internalID: -7491581754477920205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_211
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464874c8616338010800000000000000
+      internalID: 1189854197026620516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_212
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5a681535d58a6b0800000000000000
+      internalID: -5284871550287829582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_213
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b6f5aef1598c1a0800000000000000
+      internalID: -6789012473952376012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_214
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889e1934f6e81ec40800000000000000
+      internalID: 5539865625168570760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_215
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385210a9250e96c50800000000000000
+      internalID: 6659100169419695491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_216
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a0f0e81f764ec0800000000000000
+      internalID: -3583036708696840872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_217
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6771bb77ea961d160800000000000000
+      internalID: 7048531089865512822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_218
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64a6e11ca580b460800000000000000
+      internalID: 7255445973775066222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_219
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a40343689349d2a0800000000000000
+      internalID: -6712259447839587167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_220
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4727f6b2d8a0020800000000000000
+      internalID: 2308812976673682685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280684c445021c310800000000000000
+      internalID: 1423454503654940802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_222
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0d91afe66c6a9f0800000000000000
+      internalID: -457460132186828635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_223
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec80820d5e7050c0800000000000000
+      internalID: -4589029082351498014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_224
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2092a6299c2fa00800000000000000
+      internalID: 788914515426738867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_225
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc40bfbb8a677f650800000000000000
+      internalID: 6266607873589707980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_226
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9adc918f6eb8810800000000000000
+      internalID: 1768761231932238296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_227
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe79e0c47c33d81c0800000000000000
+      internalID: -4499883521605724177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_228
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3296812c8a9fe8390800000000000000
+      internalID: -7814033800235030237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_229
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee9903310fff0290800000000000000
+      internalID: -7921832838905094431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_230
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd209ca99a87aeec0800000000000000
+      internalID: -3536881887504432420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_231
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28837f42fb930d3f0800000000000000
+      internalID: -878138434215528318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_232
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bba80bf1fa2cca0800000000000000
+      internalID: -5998039203063350377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_233
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0ae3902db5dad10800000000000000
+      internalID: 2138466355727212794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_234
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3e3aaf8a0a44b50800000000000000
+      internalID: 6576558003487761312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_235
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87357fb68a07eda60800000000000000
+      internalID: 7700716281518314360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_236
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3bd739301768af0800000000000000
+      internalID: -394503657175010338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1d566b5ba1218f0800000000000000
+      internalID: -571364834971102796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_238
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c4be6776758ead0800000000000000
+      internalID: -2672790276956009378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_239
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31647db174b9c7b80800000000000000
+      internalID: -8395664875613370861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_240
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb1f2eb29f72f710800000000000000
+      internalID: 1725581875469032374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_241
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdc5a3fbf5b73920800000000000000
+      internalID: 2970042573003279870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_242
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ee1878fbf9f7870800000000000000
+      internalID: 8682834251554614924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_243
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db125e4498c8edf0800000000000000
+      internalID: -150650048222192688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_244
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1857f60155b371c80800000000000000
+      internalID: -8352141747401296511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_245
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebcbbfe637a26d10800000000000000
+      internalID: 2117438629209689066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_246
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f23c307d20d670800000000000000
+      internalID: 8561392851700872267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_247
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ebc368eda1a4210800000000000000
+      internalID: 1317895383996481031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_248
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f101099265bd05a0800000000000000
+      internalID: -6553382447675801104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_249
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0300e06378af640800000000000000
+      internalID: 5114548993065496808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_250
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51583cab50b9cb820800000000000000
+      internalID: 2935391506049238293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_251
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed750ac15a95bb8d0800000000000000
+      internalID: -2829569375187478562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1622855246_11-phonoteka_org-p-mainkraft-teksturi-blokov-krasivo-14_252
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8c27906c834ed0800000000000000
+      internalID: -2430945027368907278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

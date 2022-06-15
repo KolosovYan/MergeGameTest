@@ -4,34 +4,41 @@ using UnityEngine;
 
 public class MergeManager : MonoBehaviour
 {
-    [SerializeField] private GameObject fxPrefab;
-    [SerializeField] private List<GameObject> objectsPrefabs;
+    [SerializeField] private CreationPlaceManager placeManager;
     public delegate void MergeScore(int mergeLevel);
     public event MergeScore onMergeSucces;
+    private int prefabLevelLimit;
 
-    public void Merge(GameObject obj1, GameObject obj2, Transform parent, int prefabLevel)
+    private void Start()
     {
-        if (prefabLevel != objectsPrefabs.Count)
+        prefabLevelLimit = placeManager.GetPrefabsCount();
+    }
+
+    public void Merge(ObjectController obj1, ObjectController obj2, Transform parent, int prefabLevel)
+    {
+        if (prefabLevel != prefabLevelLimit)
         {
-            Instantiate(fxPrefab, parent.position, Quaternion.identity);
-            Instantiate(objectsPrefabs[prefabLevel], parent.position, Quaternion.identity, parent);
+            placeManager.CreateMergedObject(parent, prefabLevel);
+            placeManager.ReturnFreeElement(obj1.transform.parent);
             onMergeSucces(prefabLevel);
+
             if (prefabLevel == 1)
             {
-                SetObjectToDefault(obj1);
-                SetObjectToDefault(obj2);
+                SetObjectToDefaultState(obj1);
+                SetObjectToDefaultState(obj2);
             }
-            else
+
+            else if (prefabLevel > 1)
             {
-                Destroy(obj1);
-                Destroy(obj2);
+                Destroy(obj1.gameObject);
+                Destroy(obj2.gameObject);
             }
         }
     }
 
-    private void SetObjectToDefault(GameObject obj)
+    private void SetObjectToDefaultState(ObjectController obj)
     {
         obj.transform.parent = null;
-        obj.SetActive(false);
+        obj.gameObject.SetActive(false);
     }
 }

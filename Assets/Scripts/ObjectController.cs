@@ -4,15 +4,9 @@ using UnityEngine;
 
 public class ObjectController : MonoBehaviour
 {
-    [SerializeField] private float speed = 1;
-    public int mergeLevel;
-    private bool mouseUp;
-    private bool OnDefaultPos;
-    private Vector3 defaultPosition;
-    private Vector3 offsetZ = new Vector3(0f, 0f, 10f);
-    private Vector3 scaleOffset = new Vector3(0.1f, 0.1f, 0.1f);
     private Transform cashedTransform;
-    private ObjectController otherGameObjectController;
+    private ObjectController thisGameObjectController;
+    [SerializeField] private ObjectController otherGameObjectController;
     private SpriteRenderer otherSpriteRenderer;
     private BoxCollider2D cashedBoxCollider2d;
     private MergeManager mergeManager;
@@ -21,6 +15,7 @@ public class ObjectController : MonoBehaviour
     {
         cashedTransform = transform;
         cashedBoxCollider2d = GetComponent<BoxCollider2D>();
+        thisGameObjectController = GetComponent<ObjectController>();
     }
 
     private void Start()
@@ -28,6 +23,9 @@ public class ObjectController : MonoBehaviour
         mergeManager = GameObject.FindGameObjectWithTag("GameController").GetComponent<MergeManager>();
         SetDefaultPosition();
     }
+
+    private bool OnDefaultPos;
+    [SerializeField] private float speed = 1;
 
     private void Update()
     {
@@ -43,11 +41,8 @@ public class ObjectController : MonoBehaviour
         }
     }
 
-    IEnumerator MouseDelay()
-    {
-        yield return new WaitForSeconds(0.05f);
-        mouseUp = false;
-    }
+    private bool mouseUp;
+    private Vector3 scaleOffset = new Vector3(0.1f, 0.1f, 0.1f);
 
     private void OnMouseUp()
     {
@@ -57,10 +52,18 @@ public class ObjectController : MonoBehaviour
         StartCoroutine(MouseDelay());
     }
 
+    IEnumerator MouseDelay()
+    {
+        yield return new WaitForSeconds(0.05f);
+        mouseUp = false;
+    }
+
     private void OnMouseDown()
     {
         cashedTransform.localScale += scaleOffset;
     }
+
+    private Vector3 offsetZ = new Vector3(0f, 0f, 10f);
 
     private void OnMouseDrag()
     {
@@ -68,6 +71,8 @@ public class ObjectController : MonoBehaviour
         cashedBoxCollider2d.isTrigger = true;
         mouseUp = false;
     }
+
+    private Vector3 defaultPosition;
 
     public void SetDefaultPosition()
     {
@@ -80,9 +85,11 @@ public class ObjectController : MonoBehaviour
         {
             otherGameObjectController = other.GetComponent<ObjectController>();
             otherSpriteRenderer = other.gameObject.GetComponent<SpriteRenderer>();
-            otherSpriteRenderer.color = Color.green;
+            ChangeSpriteColor(Color.green);
         }
     }
+
+    public int mergeLevel;
 
     private void OnTriggerStay2D(Collider2D other)
     {
@@ -92,15 +99,20 @@ public class ObjectController : MonoBehaviour
             {
                 cashedBoxCollider2d.isTrigger = false;
                 mouseUp = false;
-                otherSpriteRenderer.color = Color.white;
-                mergeManager.Merge(gameObject, other.gameObject, otherGameObjectController.cashedTransform.parent, mergeLevel);
+                ChangeSpriteColor(Color.white);
+                mergeManager.Merge(thisGameObjectController, otherGameObjectController, otherGameObjectController.cashedTransform.parent, mergeLevel);
             }
         }
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
-            if (otherSpriteRenderer != null)
-            otherSpriteRenderer.color = Color.white;
+        if (otherSpriteRenderer != null)
+            ChangeSpriteColor(Color.white);
+    }
+
+    private void ChangeSpriteColor(Color color)
+    {
+        otherSpriteRenderer.color = color;
     }
 }

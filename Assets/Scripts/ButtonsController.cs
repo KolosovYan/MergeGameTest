@@ -14,4 +14,9 @@ public class ButtonsController : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public void OnMenuButtonClicked()
+    {
+        SceneManager.LoadScene("Menu");
+    }
 }

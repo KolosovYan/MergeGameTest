@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class MergeMusicController : MonoBehaviour
 {
+    [SerializeField] private CreationPlaceManager placeManager;
     [SerializeField] private MergeManager mergeManager;
     [SerializeField] private AudioSource audioSource;
 
     private void Awake()
     {
-        mergeManager.onMergeSucces += PlaySound;
+        placeManager.OnObjectCreated += PlaySound;
     }
 
-    public void PlaySound(int mergeLvl) // mergeLvl может быть использован для воспроизведения разных звуков для разного урвоня слияния.
+    public void PlaySound()
     {
             audioSource.Play(0);
     }
