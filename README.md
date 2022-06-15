@@ -4,7 +4,7 @@ EDITOR VERSION: 2020.3.35f1
 
 Example_of_work.mp4 - Видео с примером работы.
 
-MergeTestGame.apk - Собранное приложение для Android.
+MergeGameTest.apk - Собранное приложение для Android.
 
 Были использованы:
 
